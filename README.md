@@ -1,8 +1,9 @@
-# 下一页 MV — audio references
+# 下一页 MV reference audio
 
-Two short audio excerpts prepared for a single music-video generation test.
+Public generation-reference excerpts of the original recording, published with explicit permission.
 
-- [Reference A](audio/reference-a.mp3): 15 seconds
-- [Reference B](audio/reference-b.mp3): 15 seconds
+- `audio/reference-a.mp3`: 49.4–64.4 seconds, 15-second excerpt.
+- `audio/reference-b.mp3`: 64.4–79.4 seconds, 15-second excerpt.
+- `audio/full-song-v1/`: 16 additional WAV excerpts for the authorized full-song video production, 156 seconds in total. Each is at most 15 seconds.
 
-These files are publicly downloadable when published in this public repository. Public availability does not grant a license to reuse the music.
+These are source-reference materials for video generation. No portraits, project credentials, or local filesystem manifests are published here.
